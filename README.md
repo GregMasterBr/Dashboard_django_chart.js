@@ -17,3 +17,6 @@ Criado um ambiente virtual novo para rodar no Windows: venv2
       -> gregmaster / gregmasterbr@gmail.com
    -> python manage.py runserver      
 
+
+-> Adicionei o APP do Encurtador de Link
+-> https://www.youtube.com/watch?v=xOhiVo1B5Rw
