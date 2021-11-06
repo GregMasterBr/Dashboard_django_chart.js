@@ -1,7 +1,7 @@
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 
 
-def encurtadordelink(request):
+def encurtar(request):
     #return HttpResponse('Encurtador de Link')
     return render(request, 'encurtadordelink.html')

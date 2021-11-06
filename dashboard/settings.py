@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'minha_dashboard',
-    #'encurtador.apps.EncurtadorConfig'
-    'encurtador',
+    'encurtador.apps.EncurtadorConfig',
+    #'encurtador',
 ]
 
 MIDDLEWARE = [
